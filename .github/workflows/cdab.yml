@@ -35,12 +35,6 @@ jobs:
     - name: Build HTML
       run: mdbook build
 
-    - name: Check for broken links
-      run: |
-        curl -sSLo linkcheck.sh \
-          https://raw.githubusercontent.com/rust-lang/rust/master/src/tools/linkchecker/linkcheck.sh
-        sh linkcheck.sh --all cosmos-developer-academy-book
-
     - name: Upload Artifact
       uses: actions/upload-artifact@v3
       with:

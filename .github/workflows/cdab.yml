@@ -39,10 +39,10 @@ jobs:
       run: |
         curl -sSLo linkcheck.sh \
           https://raw.githubusercontent.com/rust-lang/rust/master/src/tools/linkchecker/linkcheck.sh
-        sh linkcheck.sh --all rust-by-example
+        sh linkcheck.sh --all cosmos-developer-academy-book
 
     - name: Upload Artifact
       uses: actions/upload-artifact@v3
       with:
-        name: rust-by-example
+        name: cosmos-developer-academy-book
         path: book

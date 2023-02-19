@@ -1,0 +1,1 @@
+# Emit Game Information

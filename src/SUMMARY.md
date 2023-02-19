@@ -39,6 +39,17 @@
     - [Week 1 Quiz](week_1/week1_quiz.md)
 
 - [Week 2: First Step](week_2.md)
+    - [Setup Your Work Environment](week_2/setup_your_work_environment.md)
+    - [Run a Node, API, and CLI](week_2/run_a_node_api_and_cli.md)
+    - [Ignite CLI](week_2/ignite_cli.md)
+    - [Exercise - Make a Checkers Blockchain](week_2/exercise_make_a_checkers_blockchain.md)
+    - [Store Object - Make a Checkers Blockchain](week_2/store_object_make_a_checkers_blockchain.md)
+    - [Create Custom Messages](week_2/create_custom_messages.md)
+    - [Create and Save a Game Properly](week_2/create_and_save_a_game_properly.md)
+    - [Add a Way to Make a Move](week_2/add_a_way_to_make_a_move.md)
+    - [Emit Game Information](week_2/emit_game_information.md)
+    - [Make Sure a Player Can Reject a Game](week_2/make_sure_a_player_can_reject_a_game.md)
+    - [Week 2 Exercise](week_2/week2_exercise.md)
 
 - [Week 3: Introduction to IBC and CosmJS](week_3.md)
 
